@@ -1,6 +1,7 @@
-# application_1129
+# application_DSC
 
-A new Flutter project for DSC
+A new Flutter project for DSC with a BMI calculator.
+
 
 ## Getting Started
 
