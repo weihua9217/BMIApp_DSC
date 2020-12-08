@@ -1,6 +1,6 @@
 # application_1129
 
-A new Flutter project.
+A new Flutter project for DSC
 
 ## Getting Started
 
